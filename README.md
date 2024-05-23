@@ -11,4 +11,4 @@ Restart Power BI Desktop.
 
 In Power BI Desktop, go to Get Data. You should see your custom connector listed.
 
-Select the connector, enter the required parameters (startDate, endDate), and load the data.
+Select the connector, enter the required parameters, and load the data.
